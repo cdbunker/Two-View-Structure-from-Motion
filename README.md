@@ -1,7 +1,7 @@
 # Two-View-Structure-from-Motion
 Structure from Motion using two views
 
-TwoView
+TwoView is the main function.
 
 Results:
 
@@ -18,4 +18,4 @@ Top View:
 ![alt text](https://github.com/cdbunker/Two-View-Structure-from-Motion/blob/master/top.PNG)
 
 Side View:
-![alt text](https://github.com/cdbunker/Two-View-Structure-from-Motion/blob/master/side.PNG)
+![alt text](https://github.com/cdbunker/Two-View-Structure-from-Motion/blob/master/side2.PNG)
